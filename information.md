@@ -50,3 +50,22 @@ You can even include LaTeX math by enclosing it in double dollar signs, like so
 
 As you can see, this makes the notebook a powerful tool for research.
 
+Magic Commands
+--------------
+
+Magic commands, at first, can look a little scary. They are commands that start with a '%' sign, such as
+
+	%pylab
+
+These bring some odd piece of functionality into the notebook. ```%pylab``` gives access to all of the numpy functions without having to prefix them, so instead of typing numpy.sin(), one would just type sin().
+
+Another common one to see is
+
+	%matplotlib inline
+
+what this does is allow all of the figures generated in your notebook to be displayed in the notebook instead of in a pop-out window like you are used to with shell python. For more information on magic commands, you can check out [this page](https://ipython.org/ipython-doc/3/interactive/magics.html).
+
+Installing jupyter notebooks on your own system
+-----------------------------------------------
+
+You can find information on how to install the jupyter notebook on your own system with their documentation at [readthedocs](https://jupyter.readthedocs.io/en/latest/). If you are having any issues with this, then bring it up in a workshop. You should not need to install the notebook on your own system to use it, though, as that is all handled by the online system.
