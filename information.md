@@ -9,6 +9,17 @@ The jupyter notebook is essentially just a different way to use python than you 
 
 Here, we will use the jupyter notebook as a way to contain a project's code and figures that will hopefully give you deeper insights into the Nuclear and Particle Physics material.
 
+Getting Set Up
+--------------
+
+To get set up on the system, go to [http://dmaitre.dur.scotgrid.ac.uk/newuser/](http://dmaitre.dur.scotgrid.ac.uk/newuser/) and create an account. Do not use a password that you use anywhere else!
+
+Once you have an account, go to [http://dmaitre.dur.scotgrid.ac.uk/hub/login](http://dmaitre.dur.scotgrid.ac.uk/hub/login) and log in to the system.
+
+There will be a notebook there called jupyter-tutorial. That will take you through the basics - if you require more assistance you can consult the guidance below or ask in a workshop.
+
+**To use notebooks, please make a copy of them by ticking the box next to their name and clicking "duplicate". You will then be able to edit the notebook.**
+
 Cells
 -----
 
